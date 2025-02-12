@@ -14,8 +14,8 @@ PhosLLPS, a Transformer-based GNN prediction medthod (AUC=0.9116) to identify fu
   * cd PhosLLPS
 
 2. Set up a Conda environment
-  * conda env create -f PLM.yml
-  * conda activate PLM
+  * conda env create -f environment.yml
+  * conda activate PLM2
 
 3. install esm software
   * pip install fair-esm
