@@ -9,12 +9,16 @@ PhosLLPS, a Transformer-based GNN prediction medthod (AUC=0.9116) to identify fu
 <2>hongxk@fzu.edu.cn
 
 ## Set up environment
+1. Copy Python library
+  * git clone https://github.com/HFChenLab/PhosLLPS.git
+  * cd PhosLLPS
 
-1. Install [Anaconda](https://www.anaconda.com/)
 2. Set up a Conda environment
   * conda env create -f PLM.yml
   * conda activate PLM
 
+3. install esm software
+  * pip install fair-esm
 
 ## Obtain embedding features of pretrained protein language model ESM2
   * cd esm2
