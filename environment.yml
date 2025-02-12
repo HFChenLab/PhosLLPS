@@ -1,4 +1,4 @@
-name: PLM
+name: PLM2
 channels:
   - defaults
   - https://conda.graylab.jhu.edu
