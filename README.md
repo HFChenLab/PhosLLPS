@@ -29,4 +29,5 @@ PhosLLPS, a Transformer-based GNN prediction medthod (AUC=0.9116) to identify fu
   * python generate_dataset.py 
 
 ## Predict prob and pred of each site of proteins
+  * cd predict
   * python predict.py
