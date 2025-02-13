@@ -19,6 +19,9 @@ PhosLLPS, a Transformer-based GNN prediction medthod (AUC=0.9116) to identify fu
 
 3. install esm software
   * pip install fair-esm
+    
+4. install biopython software
+  * conda install -c conda-forge biopython
 
 ## Obtain embedding features of pretrained protein language model ESM2
   * cd esm2
